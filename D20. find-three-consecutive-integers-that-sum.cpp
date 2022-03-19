@@ -1,4 +1,3 @@
-https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 
 class Solution {
 public:
