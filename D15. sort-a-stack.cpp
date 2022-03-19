@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/sort-a-stack/1
+
 
 /*The structure of the class is
 class SortedStack{
