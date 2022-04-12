@@ -1,4 +1,4 @@
-https://www.codechef.com/COOK139C/problems/MEXSPLIT
+
 
 #include <bits/stdc++.h>
 using namespace std;
