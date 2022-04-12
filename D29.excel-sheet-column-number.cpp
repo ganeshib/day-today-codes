@@ -1,4 +1,4 @@
-https://leetcode.com/problems/excel-sheet-column-number/
+
 
 class Solution {
 public:
